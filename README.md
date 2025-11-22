@@ -1,4 +1,3 @@
-#Blood groups and blood transfusion for dental students
 <!DOCTYPE html>
 <html lang="en">
 <head>
